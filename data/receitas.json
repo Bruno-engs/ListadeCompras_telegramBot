@@ -1,0 +1,27 @@
+[
+    {
+        "nome": "Pão com ovo",
+        "ingredientes": [
+            {
+                "ingrediente": "Manteiga",
+                "quantidade": 2.0,
+                "unidade": "Un"
+            },
+            {
+                "ingrediente": "Sal",
+                "quantidade": 2.0,
+                "unidade": "Kg"
+            }
+        ]
+    },
+    {
+        "nome": "1",
+        "ingredientes": [
+            {
+                "ingrediente": "Sal",
+                "quantidade": 0.5,
+                "unidade": "Kg"
+            }
+        ]
+    }
+]
